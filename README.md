@@ -9,11 +9,15 @@ This Unity C# project demonstrates how to integrate Photon PUN (Photon Unity Net
 - Synchronize player movements and actions across the network.
 - Basic debugging support.
 ## Getting Started
+- to use the scripts just open the Unity package with your unity project open.
+- MAKE SURE that you have Photon Pun 2 package and Photon Voice imported into unity.
+- MAKE SURE that you have XR Toolkit and XR Plugin Management imported into unity.
 # Prerequisites
-- Unity 2019.4 or later
-- Photon PUN 2 package from the Unity Asset Store
+- Unity 2019.4 or later.
+- Photon Voice package from the Unity Asset Sotre.
+- Photon PUN 2 package from the Unity Asset Store.
+- XR ToolKit & XR Plugin Management.
 
-## Other 
 # Stuff
 Made by Ninya <3
 
