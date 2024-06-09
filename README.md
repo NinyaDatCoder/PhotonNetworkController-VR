@@ -21,6 +21,8 @@ This Unity C# project demonstrates how to integrate Photon PUN (Photon Unity Net
 # Stuff
 Made by Ninya <3
 
+# Other
+- [Step By Step Guide](https://ninyagames.gitbook.io/photonnetworkcontroller-vr)
 
 ## License
 
